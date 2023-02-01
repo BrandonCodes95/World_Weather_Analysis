@@ -2,9 +2,10 @@
 
 ## Overview 
 
-  This project utlizied Jupyter Notebooks and Pandas to call API's from both Google and Open Weather App. Code will allow for real time weather information to be pulled from any city on Earth with details involving (max and min temp, humidity, description, rain fall, cloudiness, and wind speed). Also charting this information to show correlations between weather attributes and movement along longitudinal and latitudinal lines. 
+This project utilized Jupyter Notebooks and Pandas to call API's from both Google and Open Weather App. Code will allow for real time weather information to be pulled from any city on Earth with details involving (max and min temp, humidity, description, rain fall, cloudiness, and wind speed). Also charting this information to show correlations between weather attributes and movement along longitudinal and latitudinal lines. 
   
-  When run code will output not only the closest city with a population above 500 people to any point on earth, but also the closet hotel within 3 miles of that said city. There are also features that allow users to filter locations based off of temprature preferences and recieve output cities that mee their criteria. For trip planning purposes this project created code that will output directions from target cities to plan itineraries easier for travelers. 
+  When run code will output not only the closest city with a population above 500 people to any point on earth, but also the closet hotel within 3 miles of that said city. There are also features that allow users to filter locations based off of temperature preferences and receive output cities that meet their criteria. For trip planning purposes this project created code that will output directions from target cities to plan itineraries easier for travelers.
+
   
   ### Images from project 
   
